@@ -1,3 +1,3 @@
 # Landing_page
 <br>
-Author - Prajwal
+Author - Prajwal Pangewar
